@@ -1,0 +1,7 @@
+{
+  "name": "SSR-UI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
